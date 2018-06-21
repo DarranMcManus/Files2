@@ -1,0 +1,16 @@
+---- vis / TyrUtils v0.15 ----
+running with 4 threads
+testlevel = 4
+BSP is version 29
+     1 leafs
+     0 portals
+Calculating Base Vis:
+
+Calculating Full Vis:
+
+average leafs visible: 1
+c_noclip: 0
+c_chains: 0
+visdatasize:1  compressed from 1
+Writing BSP version 29
+  0.0 seconds elapsed
